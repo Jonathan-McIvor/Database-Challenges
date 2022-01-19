@@ -1,2 +1,2 @@
 # Database-Challenges
-QA database challenge answers 
+QA database challenge answer files
